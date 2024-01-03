@@ -1,4 +1,4 @@
-let nome = "Hyrrokkin"
+let nome = "Link"
 let xp = 2524
 let nivel
 let i
@@ -50,7 +50,7 @@ switch(true)
 
 
 
-console.log("O Herói "+nome+" está no nível " +nivel+"!")
+console.log("O Herói "+nome+" está no Rank " +nivel+"!")
 
 
 
